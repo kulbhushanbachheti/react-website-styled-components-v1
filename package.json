@@ -1,5 +1,4 @@
 {
-  
   "name": "react-website-styled-components-v1",
   "version": "0.1.0",
   "private": true,
@@ -12,8 +11,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  "scripts": {        
-  
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -23,7 +21,6 @@
     "extends": "react-app"
   },
   "browserslist": {
-
     "production": [
       ">0.2%",
       "not dead",
